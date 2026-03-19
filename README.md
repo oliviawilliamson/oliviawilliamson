@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to my page!
+
+Hi, my name is Olivia and I'm a second year PhD student at FIU. 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=liviapwilliamson&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a0a53&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **oliviawilliamson/oliviawilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
