@@ -4,7 +4,7 @@ Hi! My name is Olivia and I'm a second year PhD student and data analyst at FIU.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=liviapwilliamson&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a0a53&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Metrics](https://raw.githubusercontent.com/oliviawilliamson/oliviawilliamson/main/metrics_renders/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/oliviawilliamson/oliviawilliamson/main/github-metrics.svg)
 
 <!--
 **oliviawilliamson/oliviawilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
