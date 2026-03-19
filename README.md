@@ -7,6 +7,13 @@ Hi! My name is Olivia and I'm a second year PhD student and data analyst at FIU.
 </p>
 ![](https://raw.githubusercontent.com/oliviawilliamson/oliviawilliamson/main/profile-summary-card-output/dracula/0-profile-details.svg)
 
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=liviapwilliamson&cover_image=true&theme=spotify&show_offline=false&background_color=10a538&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</p>
 <!--
 **oliviawilliamson/oliviawilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
