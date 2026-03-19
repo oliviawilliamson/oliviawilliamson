@@ -1,6 +1,18 @@
-# Welcome to my page!
+# Hi, I'm Olivia 👋
 
-Hi! My name is Olivia and I'm a second year PhD student and data analyst at FIU. 
+PhD Student in Biostatistics | Data Analyst  
+Interested in missing data, health analytics, and statistical modeling
+
+---
+
+## 🔬 Current Work
+- Missing data simulation (MCAR, MAR, MNAR)
+- NHANES factor analysis + logistic regression
+
+## 🧠 Skills
+- R, SAS, SQL
+
+## What I'm currently listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=liviapwilliamson&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a0a53&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![](https://raw.githubusercontent.com/oliviawilliamson/oliviawilliamson/main/profile-summary-card-output/dracula/0-profile-details.svg)
