@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -12,3 +13,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
+          filename: github-metrics.svg
