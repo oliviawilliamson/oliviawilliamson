@@ -13,7 +13,7 @@ PhD student in Biostatistics (expected graduation Spring 2028) and full-time Dat
 ### :pencil2: Background
   - B.S. in Biology, FIU '22
   - MPH in Public Health, w/ concentration in Biostatistics, FIU '24
-  - PhD student in Biostatistics (present)
+  - PhD student in Biostatistics, FIU (present)
 ### :love_letter: Contact
 <div align="center">
   <a href="mailto:owilliam@fiu.edu">Email</a> |
