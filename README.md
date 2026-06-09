@@ -1,6 +1,6 @@
 # Hi, I'm Olivia 👋
 
-PhD student in Biostatistics (expected Spring 2028) and full-time Data Analyst II at Florida International University.
+PhD student in Biostatistics (expected graduation Spring 2028) and full-time Data Analyst II at Florida International University.
 
 ### 🔬 Interests
 - Missing data handling (particularly MNAR)
@@ -18,7 +18,7 @@ PhD student in Biostatistics (expected Spring 2028) and full-time Data Analyst I
 - PhD student in Biostatistics (present)
 
 ### 🌱 Outside of work
-When I'm not here, you can find me crocheting, walking around Miami, tending my orchid garden, or obsessing over my corgi child, Phineas.
+When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, or obsessing over my corgi child, Phineas.
 
 ### 📫 Contact
 - Email: [owilliam@fiu.edu](mailto:owilliam@fiu.edu)
