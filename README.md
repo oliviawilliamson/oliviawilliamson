@@ -1,25 +1,28 @@
 # Hi, I'm Olivia 👋
 
-I'm currently a PhD Student in Biostatistics (expected graduation Spring 2028) & full-time Data Analyst II at Florida International University
+PhD student in Biostatistics (expected Spring 2028) and full-time Data Analyst II at Florida International University.
 
-+ **Interests:**
-  + Missing Data Handling (particularly MNAR)
-  + Machine Learning
-  + Health Disparity Research
+### 🔬 Interests
+- Missing data handling (particularly MNAR)
+- Machine learning
+- Health disparity research
 
-+ **Current Projects:**
-  + Using ML methods to predict binary outcome using CTN0094 data
-  + Geocoding FIU student, employee, and alumni data (PI)
-  + Automating administrative processes for retriving census information for FIU leadership
+### 🛠️ Current Projects
+- Predicting a binary outcome from CTN-0094 (Clinical Trials Network) data using ML & Traditional methods
+- Geocoding FIU student, employee, and alumni data **(PI)**
+- Automating census-information retrieval for FIU leadership via an R Shiny application
 
-+ **Resume:**
+### 🎓 Background
+- B.S. in Biology, FIU '22
+- MPH in Public Health – Biostatistics, FIU '24
+- PhD student in Biostatistics (present)
 
-+ **Background/About Me:**
-  + B.S. in Biology (FIU '22), MPH in Public Health - Biostatistics (FIU '24), PhD Student in Biostatistics (present)
-  + When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, or obsessing over my corgi child, Phineas.
+### 🌱 Outside of work
+When I'm not here, you can find me crocheting, walking around Miami, tending my orchid garden, or obsessing over my corgi child, Phineas.
 
-+ **Contact:**
-  + Email: owilliam@fiu.edu
+### 📫 Contact
+- Email: [owilliam@fiu.edu](mailto:owilliam@fiu.edu)
+- [LinkedIn](#) · [ORCID](#) · [Google Scholar](#)
 
 ---
 ## What I'm currently listening to:
