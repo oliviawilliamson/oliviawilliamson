@@ -12,7 +12,7 @@ PhD student in Biostatistics (expected graduation Spring 2028) and full-time Dat
 - Geocoding FIU student, employee, and alumni data **(PI)**
 - Automating census-information retrieval for FIU leadership via an R Shiny application
 
-### :green_book: Background
+### :pencil2: Background
 - B.S. in Biology, FIU '22
 - MPH in Public Health, w/ concentration in Biostatistics, FIU '24
 - PhD student in Biostatistics (present)
