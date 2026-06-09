@@ -25,7 +25,7 @@ PhD student in Biostatistics (expected graduation Spring 2028) and full-time Dat
 </div>
 
 ---
-## What I'm currently listening to:
+### :headphones: What I'm currently listening to:
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=liviapwilliamson&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a0a53&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
