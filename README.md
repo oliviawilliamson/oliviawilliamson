@@ -2,27 +2,27 @@
 
 PhD student in Biostatistics (expected graduation Spring 2028) and full-time Data Analyst II at Florida International University.
 
-### 🔬 Interests
+### :bubbles: Interests
 - Missing data handling (particularly MNAR)
 - Machine learning
 - Health disparity research
 
-### 🛠️ Current Projects
+### :honeybee: Current Projects
 - Predicting a binary outcome from CTN-0094 (Clinical Trials Network) data using ML & Traditional methods
 - Geocoding FIU student, employee, and alumni data **(PI)**
 - Automating census-information retrieval for FIU leadership via an R Shiny application
 
-### 🎓 Background
+### :green_book: Background
 - B.S. in Biology, FIU '22
-- MPH in Public Health – Biostatistics, FIU '24
+- MPH in Public Health, w/ concentration in Biostatistics, FIU '24
 - PhD student in Biostatistics (present)
 
-### 🌱 Outside of work
-When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, or obsessing over my corgi child, Phineas.
+### :tulip: Outside of work
+When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, doing yoga, or obsessing over my corgi child, Phineas.
 
-### 📫 Contact
+### :love_letter: Contact
 - Email: [owilliam@fiu.edu](mailto:owilliam@fiu.edu)
-- [LinkedIn](#) · [ORCID](#) · [Google Scholar](#)
+- [LinkedIn](https://www.linkedin.com/in/owill028/) · [ORCID](0009-0009-6344-3996) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=whuFaCwAAAAJ)
 
 ---
 ## What I'm currently listening to:
