@@ -1,7 +1,25 @@
 # Hi, I'm Olivia 👋
 
-PhD Student in Biostatistics | Data Analyst  
-Interested in missing data & health analytics
+I'm currently a PhD Student in Biostatistics (expected graduation Spring 2028) & full-time Data Analyst II at Florida International University
+
++ **Interests:**
+  + Missing Data Handling (particularly MNAR)
+  + Machine Learning
+  + Health Disparity Research
+
++ **Current Projects:**
+  + Using ML methods to predict binary outcome using CTN0094 data
+  + Geocoding FIU student, employee, and alumni data (PI)
+  + Automating administrative processes for retriving census information for FIU leadership
+
++ **Resume:**
+
++ **Background/About Me:**
+  + B.S. in Biology (FIU '22), MPH in Public Health - Biostatistics (FIU '24), PhD Student in Biostatistics (present)
+  + When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, or obsessing over my corgi child, Phineas.
+
++ **Contact:**
+  + Email: owilliam@fiu.edu
 
 ---
 ## What I'm currently listening to:
