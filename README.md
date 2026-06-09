@@ -15,7 +15,7 @@ PhD student in Biostatistics (expected graduation Spring 2028) and full-time Dat
   - MPH in Public Health, w/ concentration in Biostatistics, FIU '24
   - PhD student in Biostatistics (present)
 ### :tulip: Outside of work
-  When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, doing yoga, or obsessing over my corgi child, Phineas.
+    When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, doing yoga, or obsessing over my corgi child, Phineas.
 ### :love_letter: Contact
   - [owilliam@fiu.edu](mailto:owilliam@fiu.edu)
   - [LinkedIn](https://www.linkedin.com/in/owill028/) · [ORCID](0009-0009-6344-3996) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=whuFaCwAAAAJ)
