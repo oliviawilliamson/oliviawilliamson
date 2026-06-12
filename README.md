@@ -1,6 +1,6 @@
 # Hi, I'm Olivia 👋
 
-PhD student in Biostatistics (expected graduation Spring 2028) and full-time Data Analyst II at Florida International University.
+PhD student in Biostatistics and full-time Data Analyst II at Florida International University
 
 ### :bubbles: Interests
   - Missing data handling (particularly MNAR)
