@@ -8,8 +8,6 @@ PhD student in Biostatistics and full-time Data Analyst II at Florida Internatio
   - Health disparity research
 ### :honeybee: Current Projects
   - Predicting a binary outcome from CTN-0094 (Clinical Trials Network) data using ML & Traditional methods
-  - Geocoding FIU student, employee, and alumni data **(PI)**
-  - Automating census-information retrieval for FIU leadership via an R Shiny application
 ### :pencil2: Background
   - B.S. in Biology, FIU '22
   - MPH in Public Health, w/ concentration in Biostatistics, FIU '24
@@ -24,7 +22,7 @@ PhD student in Biostatistics and full-time Data Analyst II at Florida Internatio
 
 ---
 ### :tulip: Outside of work
-  - When I'm not here, you can find me crocheting, walking around Miami, tending to my orchid garden, doing yoga, or obsessing over my corgi child, Phineas.
+  - When I'm not here, you can find me crocheting, tending to my orchids, being a yogi, or obsessing over my corgi Phineas.
 ### :headphones: What I'm currently listening to
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
